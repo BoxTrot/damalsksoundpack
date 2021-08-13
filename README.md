@@ -9,19 +9,11 @@ To simply add missing sounds from the game in order to enhance the experience. I
 
 ### Music
 
-Gritty, dark, atmospheric dark ambient music to perfectly match the background of your game. It’s brought by Arkham Radio and it’s totally licensed (streamers and youtubers should have no problem) so everybody can enjoy!
-Please, make sure to check his YouTube channel and give some support on Bandcamp!
+Removed music.
 
-Arkham Radio YouTube channel
-https://www.youtube.com/channel/UCwaEoDx5b4P4wrKyZhD7zcQ 
+### Environment effects
 
-Arkham Radio Bandcamp
-https://arkhamradio.bandcamp.com/ 
-
-
-
-
-
+Removed indoor effects as these were buggy.
 
 
 
