@@ -65,19 +65,6 @@
     {
         "type": "sound_effect",
         "id" : "environment",
-        "variant" : "indoors_rain",
-        "volume" : 70,
-        "files" : [
-            "env/ambience_and_weather/indoors_rain_1.ogg",
-			"env/ambience_and_weather/indoors_rain_2.ogg",
-			"env/ambience_and_weather/indoors_rain_3.ogg",
-			"env/ambience_and_weather/indoors_rain_4.ogg",
-			"env/ambience_and_weather/indoors_rain_5.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
         "variant" : "WEATHER_SNOW",
         "volume" : 70,
         "files" : [
@@ -133,19 +120,6 @@
         "files" : [
             "env/ambience_and_weather/nighttime_1.ogg",
 			"env/ambience_and_weather/nighttime_2.ogg"
-        ]
-    },
-    {
-        "type": "sound_effect",
-        "id" : "environment",
-        "variant" : "indoors",
-        "volume" : 100,
-        "files" : [
-            "env/ambience_and_weather/indoors_1.ogg",
-			"env/ambience_and_weather/indoors_2.ogg",
-			"env/ambience_and_weather/indoors_3.ogg",
-			"env/ambience_and_weather/indoors_4.ogg",
-			"env/ambience_and_weather/indoors_5.ogg"
         ]
     },
     {
